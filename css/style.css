@@ -1,0 +1,24 @@
+*{font-family: "Fairplay Display";}
+h1, h2, h3, h4, h5, h6 { font-family: "Gravitas One";}
+h1 strong {
+    font-family: 'Gravitas One';
+    font-size: 3rem;
+}
+
+h2.section-heading {
+    font-size: 2.25rem;
+}
+
+section.subhead {
+    font-size: 1.75rem;
+}
+
+p {font-size: 25px;}
+
+a.btn-primary {
+    background-color: #4066f0;
+}
+
+#about.bg-primary {
+    background-color: #54aceb!important;
+}

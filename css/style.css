@@ -1,20 +1,22 @@
-*{font-family: "Fairplay Display";}
+*{font-family: "Ubuntu";}
 h1, h2, h3, h4, h5, h6 { font-family: "Gravitas One";}
 
 
 h1 strong {
-    font-family: 'Gravitas One';
-    color: rgb(5, 181, 235);
-    font-size: 3rem;
+    font-family: "Gravitas One";
+    color: rgb(30, 15, 238);
+    font-size: 2rem;
 }
 
 h2.section-heading {
-    color: rgb(5, 181, 235);
+    font-family: 'Gravitas One';
+    color: rgb(5, 66, 238);
     font-size: 2.25rem!important;
 }
 
 h3.section-heading {
-    color: rgb(5, 181, 235);
+    font-family: 'Gravitas One';
+    color:rgb(5, 66, 235);
     font-size: 2.25rem;
 }
 
@@ -34,26 +36,26 @@ a.btn-primary {
 }
 
 header.masthead {
-    background-image: url("img/SwedClogs.jpg")
+    background-image: url("img/header.jpg")
 }
 
 .text-bigger {
-    font-size: 1.75rem!important;
-    font-family: "Fairplay Display"!important;
-    color: rgb(232, 248, 9);
+    font-size: 1.25rem!important;
+    font-family: "Gravitas One"!important;
+    color: rgb(222, 230, 252);
 }
 
 .navbar-brand {
-    color: #3e12dd!important;
+    color: #686672!important;
 }
 
 a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
-    color: #3e12dd!important;
+    color: #686672!important;
 }
 
 
 a.nav-link:focus {
-    color: rgba(147, 240, 247, 0.7);
+    color: rgba(29, 32, 32, 0.7);
 }
 
 

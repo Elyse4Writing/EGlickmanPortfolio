@@ -42,7 +42,7 @@ header.masthead {
 .text-bigger {
     font-size: 1.25rem!important;
     font-family: "Gravitas One"!important;
-    color: rgb(222, 230, 252);
+    color: rgb(62, 240, 240)
 }
 
 .navbar-brand {
@@ -63,4 +63,24 @@ a.nav-link:focus {
     color: #3e12dd!important;
     background: #212529;
     text-shadow: none;
+}
+
+.portfolio-box .portfolio-box-caption {
+    background-color: rgb(64, 76, 240)!important;
+}
+
+a.nav-link {
+    color: rgb(64, 76, 240)!important;
+}
+
+hr {
+    border-color:  rgb(189, 193, 245)!important;
+}
+
+i.fa {
+    color: rgb(64, 76, 240)!important;
+}
+
+a  {
+    color:rgb(4, 4, 8)!important;
 }

@@ -1,27 +1,27 @@
 *{font-family: "Ubuntu";}
-h1, h2, h3, h4, h5, h6 { font-family: "Gravitas One";}
+h1, h2, h3, h4, h5, h6 { font-family: "Abril Fatface";}
 
 
 h1 strong {
-    font-family: "Gravitas One";
+    font-family: "Abril Fatface";
     color: rgb(30, 15, 238);
     font-size: 2rem;
 }
 
 h2.section-heading {
-    font-family: 'Gravitas One';
+    font-family: 'Abril Fatface'!important;
     color: rgb(5, 66, 238);
     font-size: 2.25rem!important;
 }
 
 h3.section-heading {
-    font-family: 'Gravitas One';
+    font-family: 'Abril Fatface'!important;
     color:rgb(5, 66, 235);
     font-size: 2.25rem;
 }
 
 section.subhead {
-    font-size: 1.75rem;
+    font-size: 2rem;
     color: rgb(5, 181, 235);
 }
 
@@ -40,8 +40,8 @@ header.masthead {
 }
 
 .text-bigger {
-    font-size: 1.25rem!important;
-    font-family: "Gravitas One"!important;
+    font-size: 1.75rem!important;
+    font-family: "Abril Fatface"!important;
     color: rgb(62, 240, 240)
 }
 
@@ -93,7 +93,7 @@ a  {
 
 .page-title {
     display:block;
-    font-family: "Gravitas One";
+    font-family: "Abril Fatface";
     color: rgb(30, 15, 238);
     background-color: rgb(131, 174, 224);
     background-size: 200%
@@ -105,7 +105,7 @@ a  {
 
 .page-subtitle {
     display:block;
-    font-family: "Gravitas One";
+    font-family: "Abril Fatface";
     color: rgb(30, 15, 238);
     background-size: 200%
     font-size: 25px;
@@ -119,5 +119,9 @@ a  {
 }
 
 header.BeverageTrades {
-    background-image: url("img/7.jpg")
+    background-image: url("7.jpg")
+}
+
+header.FoodBlogs {
+    background-image: url("img/FoodBlogHeader.jpg")
 }

@@ -313,9 +313,23 @@ header.masthead p {
 }
 
 header.BeverageTrades {
-  background-image: url("7.jpg")
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("img/LiquorHeader.jpg") !important;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 header.FoodBlogs {
-  background-image: url("img/FoodBlogHeader.jpg")
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("img/FoodBlogHeader.jpg") !important;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

@@ -3,3 +3,18 @@ sectionnames {
     font-family: "Ubuntu"!important;
     color:rgb(64, 76, 240);
 }
+
+header.BeverageTrades {
+    background-image: url("img/LiquorHeader.jpg")!important
+}
+
+header.FoodBlogs {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url("img/FoodBlogHeader.jpg")!important;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }

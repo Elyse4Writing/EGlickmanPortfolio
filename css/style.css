@@ -44,9 +44,6 @@ header.masthead {
     background-image: url("img/header.jpg")
 }
 
-header.masthead.BeverageTrades {
-    background-image: url("img/LiquorHeader.jpg")!important
-}
 
 .text-bigger {
     font-size: 1.75rem!important;
@@ -128,7 +125,7 @@ a  {
     background: #f1f1f1;
 }
   
-  header.FoodBlogs {
+header.FoodBlogs {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
     background-image: url("img/FoodBlogHeader.jpg")!important;
@@ -137,4 +134,15 @@ a  {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+  }
+
+header.masthead.BeverageTrades {
+    background-image: url("img/LiquorHeader.jpg")!important
+}
+
+.icon {
+    position: relative;
+    /* Adjust these values accordingly */
+    top: 5px;
+    left: 5px;
   }

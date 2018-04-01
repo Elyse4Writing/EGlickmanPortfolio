@@ -392,7 +392,7 @@ header.BookLA {
 header.HealthWellness {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/HealthHeader.jpg") !important;
+  background-image: url("img/portfolio/Headers/HealthHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;

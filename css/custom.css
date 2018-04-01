@@ -18,3 +18,98 @@ header.FoodBlogs {
     -o-background-size: cover;
     background-size: cover;
   }
+
+  div {
+	border-radius: 5px;
+}
+
+#header {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #5570e7;
+	margin-bottom: 10px;
+}
+
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: "Ubuntu"!important;
+	color: #ffffff;
+}
+
+#email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: "Ubuntu"!important;
+	color: #ffffff;
+}
+
+h4 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: "Abril Fatface"!important;
+}
+
+h5 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: "Abril Fatface"!important;
+}
+
+p1 {
+	margin-left: 5px;
+	margin-bottom: 15px;
+	font-family: "Abril Fatface"!important;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: "Ubuntu"!important;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	background-color: #B9D7D9;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 88%;
+	background-color: rgb(158, 204, 235);
+	margin-bottom: 10px;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	clear: both;
+	font-family: "Ubuntu"!important;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
+

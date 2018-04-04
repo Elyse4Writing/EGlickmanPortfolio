@@ -20,7 +20,7 @@ header.FoodBlogs {
   }
 
   div {
-	border-radius: 5px;
+	border-radius: 10px;
 }
 
 #header {
@@ -35,36 +35,42 @@ header.FoodBlogs {
 
 #name {
 	float:left;
-	margin-left: 5px;
-	padding-top: 5px;
+	margin-left: 10px;
+	padding-top: 15px;
 	font-size: 16px;
 	font-family: "Ubuntu"!important;
 	color: #ffffff;
 }
 
-#email{
+#email {
 	float:right;
-	margin-right: 5px;
-	padding-top: 5px;
+	margin-right: 10px;
+	padding-top: 20px;
 	font-size: 16px;
 	font-family: "Ubuntu"!important;
 	color: #ffffff;
 }
 
 h4 {
-	margin-left: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
 	margin-bottom: 15px;
 	font-family: "Abril Fatface"!important;
 }
 
 h5 {
-	margin-left: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
 	margin-bottom: 15px;
 	font-family: "Abril Fatface"!important;
 }
 
 p1 {
-	margin-left: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
 	margin-bottom: 15px;
 	font-family: "Abril Fatface"!important;
 }
@@ -89,6 +95,7 @@ a:hover {
 	position: relative;
 	float: left;
 	margin-top: 50px;
+	margin-bottom: 50px;
 	width: 10%;
 	background-color: #B9D7D9;
 	margin-bottom: 10px;
@@ -98,6 +105,7 @@ a:hover {
 	position: relative;
 	float: right;
 	margin-top: 50px;
+	margin-bottom: 50px;
 	width: 88%;
 	background-color: rgb(158, 204, 235);
 	margin-bottom: 10px;

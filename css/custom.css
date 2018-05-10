@@ -83,10 +83,6 @@ p1 {
 	color: #000000;
 }
 
-li {
-	list-style-type: square;
-}
-
 a:hover {
 	font-weight: bold;
 }

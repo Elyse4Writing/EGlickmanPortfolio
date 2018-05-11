@@ -166,15 +166,16 @@ img::-moz-selection {
   }
 }
 
-.header-gradient {
+/*.header-gradient {
   background-color: rgb(248, 247, 216);
-  opacity: 50%;
+  opacity: 0.4;
+  filter: alpha(opacity=40%);
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-}
+}*/
 
 header.masthead {
   padding-top: 10rem;
@@ -186,8 +187,10 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover;
   background-color: gray;
-  opacity: 50%
+  opacity: 0.5;
+  filter: alpha(opacity=50%); 
 }
+
 
 header.masthead hr {
   margin-top: 30px;
@@ -215,6 +218,7 @@ header.masthead p {
     padding-top: 0;
     padding-bottom: 0;
   }
+  
   header.masthead h1 {
     font-size: 3rem;
   }

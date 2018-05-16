@@ -1,6 +1,10 @@
+/*#df855ck*/
+/*#b7df5c*/
+
 sectionnames {
     font-size: 1.75rem!important;
-    font-family: "Ubuntu"!important;
+	/* font-family: "Ubuntu"!important; */
+	font-family: 'Poppins', sans-serif;
     color:rgb(64, 76, 240);
 }
 
@@ -19,7 +23,7 @@ header.FoodBlogs {
     background-size: cover;
   }
 
-  div {
+div {
 	border-radius: 10px;
 }
 
@@ -38,7 +42,8 @@ header.FoodBlogs {
 	margin-left: 10px;
 	padding-top: 15px;
 	font-size: 16px;
-	font-family: "Ubuntu"!important;
+	/* font-family: "Ubuntu"!important; */
+	font-family: 'Poppins', sans-serif!important;
 	color: #ffffff;
 }
 
@@ -47,7 +52,7 @@ header.FoodBlogs {
 	margin-right: 10px;
 	padding-top: 20px;
 	font-size: 16px;
-	font-family: "Ubuntu"!important;
+	font-family: 'Poppins', sans-serif!important;
 	color: #ffffff;
 }
 
@@ -56,7 +61,7 @@ h4 {
 	margin-right: 15px;
 	margin-top: 10px;
 	margin-bottom: 15px;
-	font-family: "Abril Fatface"!important;
+	font-family: 'Poppins', sans-serif!important;
 }
 
 h5 {
@@ -64,7 +69,7 @@ h5 {
 	margin-right: 15px;
 	margin-top: 10px;
 	margin-bottom: 15px;
-	font-family: "Abril Fatface"!important;
+	font-family: 'Poppins', sans-serif!important;
 }
 
 p1 {
@@ -72,7 +77,7 @@ p1 {
 	margin-right: 15px;
 	margin-top: 10px;
 	margin-bottom: 15px;
-	font-family: "Abril Fatface"!important;
+	font-family: 'Poppins', sans-serif!important;
 }
 
 .right p {
@@ -111,7 +116,7 @@ a:hover {
 	position: relative;
 	height: 50px;
 	clear: both;
-	font-family: "Ubuntu"!important;
+	font-family: 'Poppins', sans-serif!important;
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;

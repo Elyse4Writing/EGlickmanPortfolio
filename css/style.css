@@ -3,11 +3,11 @@
 
 
 h1 strong {
-    /* font-family: "Abril Fatface"; */
-    font-family: 'Poppins', sans-serif;
+    font-family: "Abril Fatface"; 
+    /*font-family: 'Poppins', sans-serif;*/
     color: rgb(27, 35, 149);
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
 }
 
 /* control+? comments out code */
@@ -22,7 +22,7 @@ h2.section-heading {
 h3.section-heading {
     /* font-family: 'Abril Fatface'!important; */
     font-family: 'Poppins', sans-serif;
-    color:rgb(5, 66, 235);
+    color: rgb(27, 35, 149);
     text-align: center;
     font-size: 2.25rem;
 }

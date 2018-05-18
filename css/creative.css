@@ -284,7 +284,9 @@ header.masthead p {
 }
 
 .portfolio-box:hover .portfolio-box-caption {
-  opacity: 50%;
+  /*opacity: 50%;*/
+  width: 100%;
+  height: 100%
 }
 
 .portfolio-box:focus {

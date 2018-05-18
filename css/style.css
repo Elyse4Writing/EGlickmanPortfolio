@@ -5,7 +5,7 @@
 h1 strong {
     /* font-family: "Abril Fatface"; */
     font-family: 'Poppins', sans-serif;
-    color: rgb(187, 250, 255);
+    color: rgb(27, 35, 149);
     text-align: center;
     font-size: 2rem;
 }
@@ -29,7 +29,7 @@ h3.section-heading {
 
 section.subhead {
     /* font-family: 'Abril Fatface'; */
-    font-family: 'Questrial', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 2rem;
     text-align: center;
     color: rgb(5, 181, 235);
@@ -117,7 +117,7 @@ a  {
 
 .page-subtitle {
     display:block;
-    font-family: "Abril Fatface";
+    font-family: 'Poppins', sans-serif;
     color: rgb(30, 15, 238);
     background-size: 200%;
     font-size: 25px;

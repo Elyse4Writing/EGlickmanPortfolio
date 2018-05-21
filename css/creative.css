@@ -27,7 +27,7 @@ a {
 }
 
 a:hover {
-  color: #5240f0;
+  color:  rgb(27, 35, 149);
 }
 
 h1,
@@ -41,7 +41,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: rgb(64, 76, 240) !important;
+  background-color: rgb(27, 35, 149)!important;
 }
 
 .bg-dark {
@@ -204,7 +204,7 @@ header.masthead h1 {
 }
 
 header.masthead p {
-  font-weight: 300;
+  font-weight: 500;
 }
 
 @media (min-width: 768px) {
@@ -336,7 +336,7 @@ header.masthead p {
 header.BeverageTrades {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/LiquorHeader.jpg") !important;
+  background-image: "img/LiquorHeader.jpg" !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;

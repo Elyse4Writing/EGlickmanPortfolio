@@ -14,7 +14,8 @@ h1 strong {
 
 h2.section-heading {
     font-size: 2.0rem!important;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Abril Fatface';
+    /*font-family: 'Poppins', sans-serif;"*/
     text-align: center;
     color:rgb(5, 66, 235);
 }
@@ -52,13 +53,14 @@ header.masthead {
 
 .text-bigger {
     font-size: 1.75rem!important;
-    font-family: 'Poppins', sans-serif;"
+    font-family: 'Abril Fatface';
+    /*font-family: 'Poppins', sans-serif;"*/
     text-align: center;
-    color: rgb(62, 240, 240);
+    color: #fbd86f!important;
 }
 
 .navbar-brand {
-    color: #686672!important;
+    color: rgb(27, 35, 149)!important;
 }
 
 a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {

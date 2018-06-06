@@ -3,8 +3,9 @@
 
 
 h1 strong {
-    font-family: "Abril Fatface"; 
+    /*font-family: "Abril Fatface";*/
     /*font-family: 'Poppins', sans-serif;*/
+    font-family: 'Cagliostro', sans-serif;
     color: rgb(27, 35, 149);
     text-align: center;
     font-size: 4rem;
@@ -14,7 +15,8 @@ h1 strong {
 
 h2.section-heading {
     font-size: 2.0rem!important;
-    font-family: 'Abril Fatface';
+    font-family: 'Cagliostro', sans-serif;
+    /*font-family: 'Abril Fatface';*/
     /*font-family: 'Poppins', sans-serif;"*/
     text-align: center;
     color:rgb(5, 66, 235);
@@ -52,15 +54,16 @@ header.masthead {
 
 
 .text-bigger {
-    font-size: 1.75rem!important;
-    font-family: 'Abril Fatface';
+    font-size: 2rem!important;
+    font-family: 'Cagliostro', sans-serif;
+   /*font-family: 'Abril Fatface';*/
     /*font-family: 'Poppins', sans-serif;"*/
     text-align: center;
-    color: #fbd86f!important;
+    color: #b5f504!important;
 }
 
 .navbar-brand {
-    color: rgb(27, 35, 149)!important;
+    color: #3e12dd!important;
 }
 
 a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
@@ -107,7 +110,7 @@ a  {
 
 .page-title {
     display:block;
-    font-family: "Abril Fatface";
+    font-family: 'Cagliostro', sans-serif;
     color: rgb(30, 15, 238);
     background-color: rgb(131, 174, 224);
     background-size: 200%;

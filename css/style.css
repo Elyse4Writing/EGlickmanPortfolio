@@ -1,12 +1,11 @@
-*{font-family: 'Questrial', sans-serif;}
+*{ font-family: 'Cagliostro', sans-serif;}
 /* h1, h2, h3, h4, h5, h6 { font-family: "Abril Fatface";} */
-
 
 h1 strong {
     /*font-family: "Abril Fatface";*/
     /*font-family: 'Poppins', sans-serif;*/
     font-family: 'Cagliostro', sans-serif;
-    color: rgb(27, 35, 149);
+    color: rgb(27, 35, 149) !important;
     text-align: center;
     font-size: 4rem;
 }
@@ -14,17 +13,17 @@ h1 strong {
 /* control+? comments out code */
 
 h2.section-heading {
-    font-size: 2.0rem!important;
+    font-size: 2.50rem !important;
     font-family: 'Cagliostro', sans-serif;
     /*font-family: 'Abril Fatface';*/
     /*font-family: 'Poppins', sans-serif;"*/
     text-align: center;
-    color:rgb(5, 66, 235);
+    color: rgb(27, 35, 149);
 }
 
 h3.section-heading {
     /* font-family: 'Abril Fatface'!important; */
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cagliostro', sans-serif;
     color: rgb(27, 35, 149);
     text-align: center;
     font-size: 2.25rem;
@@ -32,76 +31,76 @@ h3.section-heading {
 
 section.subhead {
     /* font-family: 'Abril Fatface'; */
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Cagliostro', sans-serif;
     font-size: 2rem;
     text-align: center;
     color: rgb(5, 181, 235);
 }
 
-p {font-size: 25px;}
+p {
+    font-size: 25px;
+}
 
 a.btn-primary {
     background-color: #4066f0;
 }
 
 #about.bg-primary {
-    background-color: #54aceb!important;
+    background-color: #54aceb !important;
 }
 
 header.masthead {
     background-image: url("img/header.jpg")
 }
 
-
 .text-bigger {
-    font-size: 2rem!important;
+    font-size: 2.7rem !important;
     font-family: 'Cagliostro', sans-serif;
-   /*font-family: 'Abril Fatface';*/
+    /*font-family: 'Abril Fatface';*/
     /*font-family: 'Poppins', sans-serif;"*/
     text-align: center;
-    color: #b5f504!important;
+    color: #b5f504 !important;
 }
 
 .navbar-brand {
-    color: #3e12dd!important;
+    color: #3e12dd !important;
 }
 
-a.nav-link, #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
-    color: #686672!important;
+a.nav-link,
+#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus {
+    color: #686672 !important;
 }
-
 
 a.nav-link:focus {
     color: rgba(29, 32, 32, 0.7);
 }
 
-
 ::selection {
-    color: #3e12dd!important;
+    color: #3e12dd !important;
     background: #212529;
     text-shadow: none;
 }
 
 .portfolio-box .portfolio-box-caption {
-    background-color: rgb(64, 76, 240)!important;
+    background-color: rgb(64, 76, 240) !important;
     width: 100%;
     height: 350px;
 }
 
 a.nav-link {
-    color: rgb(64, 76, 240)!important;
+    color: rgb(64, 76, 240) !important;
 }
 
 hr {
-    border-color:  rgb(189, 193, 245)!important;
+    border-color: rgb(189, 193, 245) !important;
 }
 
 i.fa {
-    color: rgb(64, 76, 240)!important;
+    color: rgb(64, 76, 240) !important;
 }
 
-a  {
-    color:rgb(4, 4, 8)!important;
+a {
+    color: rgb(4, 4, 8) !important;
 }
 
 .page-container {
@@ -109,7 +108,7 @@ a  {
 }
 
 .page-title {
-    display:block;
+    display: block;
     font-family: 'Cagliostro', sans-serif;
     color: rgb(30, 15, 238);
     background-color: rgb(131, 174, 224);
@@ -121,8 +120,8 @@ a  {
 }
 
 .page-subtitle {
-    display:block;
-    font-family: 'Poppins', sans-serif;
+    display: block;
+    font-family: 'Cagliostro', sans-serif;
     color: rgb(30, 15, 238);
     background-size: 200%;
     font-size: 25px;
@@ -134,20 +133,20 @@ a  {
     height: 300px;
     background: #f1f1f1;
 }
-  
+
 header.FoodBlogs {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-image: url("img/FoodBlogHeader.jpg")!important;
+    background-image: url("img/FoodBlogHeader.jpg") !important;
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-  }
+}
 
 header.masthead.BeverageTrades {
-    background-image: url("img/LiquorHeader.jpg")!important
+    background-image: url("img/LiquorHeader.jpg") !important
 }
 
 .icon {
@@ -155,4 +154,16 @@ header.masthead.BeverageTrades {
     /* Adjust these values accordingly */
     top: 5px;
     left: 5px;
-  }
+}
+
+#resumewrapper {
+    /*background-color: green; for visualization purposes */
+    width: 100%;
+    text-align: center;
+}
+
+#resumebuttondiv {
+    /*background-color: red;  for visualization purposes */
+    text-align: center
+    /*display: inline-block;*/
+}

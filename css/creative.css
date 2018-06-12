@@ -12,7 +12,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: rgb(90, 64, 240);
+  border-color: rgb(90, 64, 240)!important;
 }
 
 hr.light {
@@ -85,7 +85,8 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
   background-color: #fff;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Cagliostro', sans-serif;
+  /*font-family: 'Poppins', sans-serif;*/
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -95,7 +96,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: rgb(64, 76, 240);
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Cagliostro', sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -307,12 +308,12 @@ header.masthead p {
 }
 
 .btn {
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
   border: none;
   border-radius: 300px;
   /* font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; */
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Cagliostro', sans-serif;
 }
 
 .btn-xl {

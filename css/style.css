@@ -100,7 +100,19 @@ i.fa {
 }
 
 a {
-    color: rgb(4, 4, 8) !important;
+    color: #b5f504;
+}
+
+#button_cover_white {
+    color: white !important;
+}
+
+#button_text_black {
+    color: black !important;
+}
+
+.link_text_black {
+    color: black !important;
 }
 
 .page-container {

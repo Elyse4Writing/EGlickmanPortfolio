@@ -184,7 +184,6 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/header.jpg") !important;
-
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -268,10 +267,10 @@ header.masthead p {
   text-align: center;
 }
 
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   padding: 0 15px;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  /*font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;*/
+  font-family: 'Cagliostro', sans-serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -338,6 +337,7 @@ header.BeverageTrades {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: "img/LiquorHeader.jpg" !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/LiquorHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -348,7 +348,8 @@ header.BeverageTrades {
 header.FoodBlogs {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/FoodBlogHeader.jpg") !important;
+  /*background-image: url("img/FoodBlogHeader.jpg") !important;*/
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("img/FoodBlogHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -360,6 +361,7 @@ header.LucireMagazine {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("img/LucireHeader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/LucireHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -370,7 +372,8 @@ header.LucireMagazine {
 header.Miscellaneous {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/ProjectsHeader.jpg") !important;
+  /*background-image: url("img/ProjectsHeader.jpg") !important;*/
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("/img/ProjectsHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -382,6 +385,7 @@ header.Miscellaneous {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("img/WhereverFamilyHeader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/WhereverFamilyHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -393,6 +397,7 @@ header.TravelAgeWest {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("img/tawheader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/tawheader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -404,6 +409,7 @@ header.BookLA {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("img/BookLAHeader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/BookLAHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -415,6 +421,7 @@ header.HealthWellness {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("img/portfolio/Headers/HealthHeader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/HealthHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;

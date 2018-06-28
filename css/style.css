@@ -1,10 +1,10 @@
-*{ font-family: 'Cagliostro', sans-serif;}
+*{ font-family: 'Poppins', sans-serif;}
 /* h1, h2, h3, h4, h5, h6 { font-family: "Abril Fatface";} */
 
 h1 strong {
     /*font-family: "Abril Fatface";*/
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Cagliostro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Cagliostro', sans-serif; */
     color: rgb(27, 35, 149) !important;
     text-align: center;
     font-size: 4rem;
@@ -14,16 +14,16 @@ h1 strong {
 
 h2.section-heading {
     font-size: 2.50rem !important;
-    font-family: 'Cagliostro', sans-serif;
+    /* font-family: 'Cagliostro', sans-serif; */
     /*font-family: 'Abril Fatface';*/
-    /*font-family: 'Poppins', sans-serif;"*/
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     color: rgb(27, 35, 149);
 }
 
 h3.section-heading {
     /* font-family: 'Abril Fatface'!important; */
-    font-family: 'Cagliostro', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: rgb(27, 35, 149);
     text-align: center;
     font-size: 2.25rem;
@@ -31,8 +31,8 @@ h3.section-heading {
 
 section.subhead {
     /* font-family: 'Abril Fatface'; */
-    font-family: 'Cagliostro', sans-serif;
-    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.75rem;
     text-align: center;
     color: rgb(5, 181, 235);
 }
@@ -54,10 +54,10 @@ header.masthead {
 }
 
 .text-bigger {
-    font-size: 2.7rem !important;
-    font-family: 'Cagliostro', sans-serif;
+    font-size: 1.50rem !important;
+    /* font-family: 'Cagliostro', sans-serif; */
     /*font-family: 'Abril Fatface';*/
-    /*font-family: 'Poppins', sans-serif;"*/
+    font-family: 'Poppins', sans-serif;
     text-align: center;
     color: #b5f504 !important;
 }
@@ -121,7 +121,7 @@ a {
 
 .page-title {
     display: block;
-    font-family: 'Cagliostro', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: rgb(30, 15, 238);
     background-color: rgb(131, 174, 224);
     background-size: 200%;
@@ -133,7 +133,7 @@ a {
 
 .page-subtitle {
     display: block;
-    font-family: 'Cagliostro', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: rgb(30, 15, 238);
     background-size: 200%;
     font-size: 25px;

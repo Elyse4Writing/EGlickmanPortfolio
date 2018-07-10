@@ -337,23 +337,11 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgb(64, 76, 240) !important;
 }
 
-header.BeverageTrades {
-  padding-top: 10rem;
-  padding-bottom: calc(10rem - 56px);
-  background-image: "img/LiquorHeader.jpg" !important;
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/LiquorHeader.jpg") !important;
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-header.FoodBlogs {
+header.masthead.FoodBlogs {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   /*background-image: url("img/FoodBlogHeader.jpg") !important;*/
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("img/FoodBlogHeader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("img/FoodBlogBanner.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -361,11 +349,11 @@ header.FoodBlogs {
   background-size: cover;
 }
 
-header.LucireMagazine {
+header.masthead.LucireMagazine {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/LucireHeader.jpg") !important;
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/LucireHeader.jpg") !important;
+  background-image: url("img/LucireBanner.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/LucireBanner.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -377,7 +365,7 @@ header.Miscellaneous {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   /*background-image: url("img/ProjectsHeader.jpg") !important;*/
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("/img/ProjectsHeader.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/ProjectsHeader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -385,22 +373,12 @@ header.Miscellaneous {
   background-size: cover;
 }
 
-header.Miscellaneous {
-  padding-top: 10rem;
-  padding-bottom: calc(10rem - 56px);
-  background-image: url("img/WhereverFamilyHeader.jpg") !important;
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/WhereverFamilyHeader.jpg") !important;
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 
 header.TravelAgeWest {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/tawheader.jpg") !important;
+  background-image: url("img/tawbanner.jpg") !important;
   background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/tawheader.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;

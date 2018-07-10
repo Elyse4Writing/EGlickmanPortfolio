@@ -1,4 +1,7 @@
-*{ font-family: 'Cagliostro', sans-serif;}
+* {
+    font-family: 'Cagliostro', sans-serif;
+}
+
 /* h1, h2, h3, h4, h5, h6 { font-family: "Abril Fatface";} */
 
 h1 strong {
@@ -146,19 +149,23 @@ a {
     background: #f1f1f1;
 }
 
-header.FoodBlogs {
+/*  
+header.WhereverFamilyHeader {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-image: url("img/FoodBlogHeader.jpg") !important;
-    background-position: center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
+    background-image:  url("../img/portfolio/Headers/WhereverFamilyBanner.jpg") !important;
+    /* background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/portfolio/Headers/WhereverFamilyBanner.jpg") !important; */
+    /* background-position: center center; */
+    /* -webkit-background-size: cover; */
+    /* -moz-background-size: cover; */
+    /* -o-background-size: cover; */
+    /* background-size: cover; */
+  /* } */
+
+
 
 header.masthead.BeverageTrades {
-    background-image: url("img/LiquorHeader.jpg") !important
+    background-image: url("img/LiquorBannerr.jpg") !important
 }
 
 .icon {

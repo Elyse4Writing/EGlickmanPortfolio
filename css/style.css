@@ -150,23 +150,27 @@ a {
 }
 
 /*  
-header.WhereverFamilyHeader {
+header.WhereverFamilyCom {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 56px);
-    background-image:  url("../img/portfolio/Headers/WhereverFamilyBanner.jpg") !important;
-    /* background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/portfolio/Headers/WhereverFamilyBanner.jpg") !important; */
-    /* background-position: center center; */
-    /* -webkit-background-size: cover; */
-    /* -moz-background-size: cover; */
-    /* -o-background-size: cover; */
-    /* background-size: cover; */
-  /* } */
-
-
-
-header.masthead.BeverageTrades {
-    background-image: url("img/LiquorBannerr.jpg") !important
-}
+    background-image:  url("../img/WhereverFamilyBanner.jpg") !important;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  header.BeverageTrades {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 56px);
+    background-image: url("img/LiquorBanner.jpg") !important;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } */
 
 .icon {
     position: relative;

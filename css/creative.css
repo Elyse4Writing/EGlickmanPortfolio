@@ -194,9 +194,31 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover;
   background-color: gray;
- 
 }
 
+header.WhereverFamilyCom {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image:  url("../img/WhereverFamilyBanner.jpg") !important;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header.BeverageTrades {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("img/LiquorBanner.jpg") !important;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+
+ /* background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/WhereverFamilyBanner.jpg") !important; */
 
 header.masthead hr {
   margin-top: 30px;

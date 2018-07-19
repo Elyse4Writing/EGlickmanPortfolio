@@ -199,18 +199,19 @@ header.masthead {
 header.WhereverFamilyCom {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image:  url("../img/WhereverFamilyBanner.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/banners/WhereverFamilyBanner.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-color: gray;
 }
 
 header.BeverageTrades {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/LiquorBanner.jpg") !important;
+  background-image: url("../img/banners/LiquorBanner.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -363,7 +364,7 @@ header.masthead.FoodBlogs {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   /*background-image: url("img/FoodBlogHeader.jpg") !important;*/
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("img/FoodBlogBanner.jpg") !important;
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("img/banners/FoodBlogBanner.jpg")!important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -374,8 +375,8 @@ header.masthead.FoodBlogs {
 header.masthead.LucireMagazine {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("img/LucireBanner.jpg") !important;
-  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/LucireBanner.jpg") !important;
+  /* background-image: url("img/LucireBanner.jpg") !important; */
+  background-image: linear-gradient(rgba(233, 148, 88, 0.2), rgba(233, 148, 88, 0.2)), url("../img/banner/LucireBanner.jpg") !important;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
